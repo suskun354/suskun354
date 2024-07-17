@@ -1,8 +1,7 @@
-# My name is Yunus Emre, I am a person who has devoted myself to new knowledge throughout my life.I am experienced and motivated in the field of data analysis in my last job. I have 3 years of experience. Let me briefly tell you about myself and the work I do 👇
+# My name is Yunus Emre, I am a person who has devoted myself to new knowledge throughout my life.I am experienced and motivated in the field of data analysis in my last job. I have 3 years of experience. Let me briefly tell you about myself and the work I do At my previous job, I worked as a data analyst at PowerBI and have broad exposure to  data visualization and reporting. With this experience, I can effectively fulfill your duties such as editing, maintaining  sales reports, and tracking suppliers. I can take an active role in the development of new analysis and report development. 👇
 
 ## Let's Connect!
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yunusemreduran8591)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iamyunusemreduran)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yunuseduran)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/yunuseduran)
@@ -23,7 +22,7 @@
 - [Kickstart Your NLP Career with This Easy-to-Follow Roadmap](https://medium.com)
 
 ## 🤖 Work Areas
-![GenAI](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)
+![Data Analyst](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)
 ![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)
@@ -32,4 +31,4 @@
 ![CloudComputing](https://img.shields.io/badge/CloudComputing-pink?style=for-the-badge)
 
 ## 📬 Contact Us
-For any inquiries, please email us at: [info@example.com](mailto:info@example.com)
+For any inquiries, please email us at: [yunusemreduran.05@gmail.com](mailto:yunusemreduran.05@gmail.com)
