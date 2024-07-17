@@ -22,13 +22,11 @@
 - [Kickstart Your NLP Career with This Easy-to-Follow Roadmap](https://medium.com)
 
 ## 🤖 Work Areas
-![Data Analyst](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)
-![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)
-![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
-![DeepLearning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)
-![DataEngineering](https://img.shields.io/badge/DataEngineering-green?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-purple?style=for-the-badge)
-![CloudComputing](https://img.shields.io/badge/CloudComputing-pink?style=for-the-badge)
+[![Data Analyst](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)](https://yunusemreduran.com/)
+[![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)](https://kaggle.com/yunusemreduran)
+[![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)](https://huggingface.co/yunuseduran)
+[![DataVisualization](https://img.shields.io/badge/DataEngineering-green?style=for-the-badge)](https://data-store.streamlit.app/)
+
 
 ## 📬 Contact Us
 For any inquiries, please email us at: [yunusemreduran.05@gmail.com](mailto:yunusemreduran.05@gmail.com)
